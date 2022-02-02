@@ -1,0 +1,12 @@
+[i] Target: android/multiple
+[i] Cleaning target directories...
+[✓] "bin" dir cleaned: /home/dalem/workspace/Revised_hello_world.go/fyne-cross/bin/android
+[✓] "dist" dir cleaned: /home/dalem/workspace/Revised_hello_world.go/fyne-cross/dist/android
+[✓] "temp" dir cleaned: /home/dalem/workspace/Revised_hello_world.go/fyne-cross/tmp/android
+[i] Checking for go.mod: /home/dalem/workspace/Revised_hello_world.go/go.mod
+[✓] go.mod found
+[i] Packaging app...
+go build . failed: exit status 1
+no Go files in /app
+
+[✗] could not package the Fyne app: could not package the Fyne app: exit status 1

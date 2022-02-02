@@ -6,7 +6,5 @@
 [i] Checking for go.mod: /home/dalem/workspace/Revised_hello_world.go/go.mod
 [✓] go.mod found
 [i] Packaging app...
-go build . failed: exit status 1
-no Go files in /app
-
+Revised_hello_world.go does not import "fyne.io/fyne/v2/internal/driver/mobile/app"
 [✗] could not package the Fyne app: could not package the Fyne app: exit status 1

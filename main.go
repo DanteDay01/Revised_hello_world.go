@@ -1,9 +1,12 @@
+// Revised_hello_world.go asks the operator for input then displays different output depending on operator input.
+
 package main
 
 // TODO, go install gomobile@latest fails. Can I do it otherwise?
 // Your IP address is 130.45.44.245 in San Antonio, Texas, United States (78213)
 import (
 	"fmt"
+	//"fyne.io/fyne/v2/internal/driver/mobile/app"
 	"log"
 )
 
